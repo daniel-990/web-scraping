@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title></title>
+	<link rel="stylesheet" href="">
+	<script src="http://code.jquery.com/jquery-latest.min.js"></script>
+	<script type="text/javascript" src="/socket.io/socket.io.js"></script>
+	<script type="text/javascript">
+	$(document).ready(function() {
+	
+	var socket = io.connect();
+	var texto = $("p");
+
+	if ($(document).ready){
+
+			socket.emit('enviar dato');
+		//
+	}else{
+
+	};
+		    socket.on('nuevo dato', function(datoWeb){
+			texto.html(datoWeb + "<br>");
+			console.log(datoWeb);
+            });
+	});
+	</script>
+</head>
+<body>
+	<h1>Web scraping!!</h1>
+	<div id="texto">
+		<p>textos!!</p>
+
+	</div>
+</body>
+</html>
