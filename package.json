@@ -1,0 +1,10 @@
+{
+	"name":"webScraping",
+	"version":"0.1.0",
+	"dependencies":{
+		"cheerio":"*",
+		"request":"*",
+		"express":"*",
+		"socket.io":"*"
+	}
+}
