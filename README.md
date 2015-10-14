@@ -6,12 +6,12 @@ console.log("Hola Web-Scraping");
 
 ejemplo sencillo utilizando `Node` para la implementación de `Web-Scraping`
 
-<strong>node</strong>
+`Node.js`
 
-<strong>cheerio</strong>
+`cheerio`
 
-<strong>express</strong>
+`express`
 
-<strong>request</strong>
+`request`
 
-<strong>socket.io</strong>
+`socket.io`
