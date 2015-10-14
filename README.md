@@ -2,9 +2,9 @@
 console.log("Hola Web-Scraping");
 ```
 
-# web-scraping
+## web-scraping
 
-<h3>ejemplo sencillo utilizando `Node` para la implementación de `Web-Scraping`</h3>
+ejemplo sencillo utilizando `Node` para la implementación de `Web-Scraping`
 
 <strong>node</strong>
 
