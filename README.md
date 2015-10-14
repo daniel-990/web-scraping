@@ -1,12 +1,14 @@
 <style type="text/css" media="screen">
-body{
+#container{
 background-color:#ccc;
+			width: 100px;
+			height: 100px;
 }
 </style>
 
 
 # web-scraping
-<body>
+<dov id="container">
 <h3>ejemplo sencillo utilizando node.js para la implementación de web scraping</h3>
 
 <strong>node</strong>
@@ -18,4 +20,4 @@ background-color:#ccc;
 <strong>request</strong>
 
 <strong>socket.io</strong>
-</body>
+</dov>
