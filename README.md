@@ -1,8 +1,8 @@
-<script>
-window.onload = function(){
- console.log("hol amundo");
+<style>
+body{
+background-color:#ccc;
 }
-</script>
+</style>
 
 
 # web-scraping
