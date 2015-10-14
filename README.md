@@ -6,7 +6,7 @@ background-color:#ccc;
 
 
 # web-scraping
-
+<body>
 <h3>ejemplo sencillo utilizando node.js para la implementación de web scraping</h3>
 
 <strong>node</strong>
@@ -18,3 +18,4 @@ background-color:#ccc;
 <strong>request</strong>
 
 <strong>socket.io</strong>
+</body>
