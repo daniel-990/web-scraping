@@ -1,4 +1,4 @@
-<style>
+<style type="text/css" media="screen">
 body{
 background-color:#ccc;
 }
