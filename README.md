@@ -1,6 +1,6 @@
 # web-scraping
 
-<h5>ejemplo sencillo utilizando node.js para la implementación de web scraping</h5>
+<h3>ejemplo sencillo utilizando node.js para la implementación de web scraping</h3>
 
 <strong>node</strong>
 
