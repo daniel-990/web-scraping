@@ -2,7 +2,7 @@
 
 <h5>ejemplo sencillo utilizando node.js para la implementación de web scraping</h5>
 
-node 
+<strong>node</strong>
 
 cheerio
 
