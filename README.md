@@ -4,10 +4,10 @@
 
 <strong>node</strong>
 
-cheerio
+<strong>cheerio</strong>
 
-express
+<strong>express</strong>
 
-request
+<strong>request</strong>
 
-socket.io
+<strong>socket.io</strong>
